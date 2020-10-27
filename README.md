@@ -5,17 +5,17 @@
 
 1º: ☞ Vá para esse diretório:
 > file:///C:/Users/nome-da-sua-maquina
-<br>
+<br><br>
 2º: ☞ Cole lá o arquivo .css<br>
 ☛ dark-theme-default.css (caso use o tema dark)<br>
-☛ dracula-theme.css (caso use o tema dracula)<br>
+☛ dracula-theme.css (caso use o tema dracula)<br><br>
 
 3º: ☞ Abra o VSCode e acesse Preferências > Configurações<br>
 ☛ Pesquise settings.json<br>
 ☛ Clique na opção "Editar em settings.json"<br>
 ☛ Vá para a pasta que você baixou aqui<br>
 ☛ Copie o código do arquivo settings da pasta de seu respectivo tema e cole no arquivo settings.json que você abriu no VSCode<br>
-☛ Salve (Ctrl + s)<br>
+☛ Salve (Ctrl + s)<br><br>
 
 4º: ☞ No VSCode aperte "Ctrl + Shift + P" e digite:<br>
 ☛ Enable Custom CSS and JS<br>
