@@ -1,6 +1,7 @@
 <h2>Deixando algumas letras em <b>neon</b> no tema Dark ou Dracula do Visual Studio Code</h2>
 
 Antes de tudo, para utilizar desta configuração você precisa ter as extensões Dracula Theme (caso for utilizar este) e Custom CSS and JS.
+<br>
 ``
 1º: Vá para esse diretório:
 > file:///C:/Users/nome-da-sua-maquina
