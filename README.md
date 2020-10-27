@@ -5,7 +5,8 @@
 
 1º: ☞ Vá para esse diretório:
 > file:///C:/Users/nome-da-sua-maquina
-<br><br>
+
+<br>
 2º: ☞ Cole lá o arquivo .css<br>
 ☛ dark-theme-default.css (caso use o tema dark)<br>
 ☛ dracula-theme.css (caso use o tema dracula)<br><br>
