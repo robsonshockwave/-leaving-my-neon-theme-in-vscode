@@ -1,6 +1,6 @@
 {
 	"vscode_custom_css.imports": [
-        "file:///C:/Users/robso/dracula-theme.css"
+        "file:///C:/Users/nome-da-sua-maquina/dracula-theme.css"
     ],
     "vscode_custom_css.policy": true,
 }
